@@ -1,4 +1,4 @@
-- I am a Physics MSc student, working on gravitational wave data analysis
+- I am a student in Theoretical and Scientific Data Science at SISSA
 - I am curious about data analysis, statistics and their link with AI and machine learning
 - Pronouns: he/him
 - How to reach me: https://www.linkedin.com/in/gianmarco-puleo-527815184/
